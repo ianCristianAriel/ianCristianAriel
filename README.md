@@ -10,7 +10,7 @@
 </head>
 <body>
     <h4 style="text-decoration: underline;">📚 Estudio ciencia de datos y inteligencia artificial</h4>
-    <h4 style="text-decoration: underline">📖 Mis certificaciones y cursos:
+    <h4 style="text-decoration: underline">📖 Cursos realizados y certificaciones:
         <p>
             <li>Programación profesional desde cero -> 
                 <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-4aed3ef2-a552-43a4-9c12-80e842b3d162.pdf" target="_blank" rel="noopener noreferrer" >Certificado</a>
