@@ -4,7 +4,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=, initial-scale=1.0">
-    <h2 style="color: green">Hola!! me llamo Ian!, soy programador<h2>
+    <h2>
+        <span style="color: green">Hola!! me llamo Ian!, soy programador</span>
+    <h2>
 </head>
 <body>
     <h4 style="text-decoration: underline;">📚 Estudio ciencia de datos y inteligencia artificial</h4>
