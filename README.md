@@ -1,4 +1,3 @@
-### 
 🌱📚 Actualmente esto cursando el primer año de Ciencia de datos y inteligencia artificial
 📖 Mis certificaciones y cursos:
 Programación profesional desde cero (Completado). Certificado -> https://udemy-certificate.s3.amazonaws.com/pdf/UC-4aed3ef2-a552-43a4-9c12-80e842b3d162.pdf
