@@ -24,11 +24,11 @@
             <li>Curso SQL ->
                 <a href="https://youtube.com/playlist?list=PLU8oAlHdN5Bmx-LChV4K3MbHrpZKefNwn" target="_blank" rel="noopener noreferrer" >Contenido</a>
             </li>
-            <li>Curso introductorio CSS -> 
-                <a href="https://www.youtube.com/watch?v=wZniZEbPAzk" target="_blank" rel="noopener noreferrer" >Contenido</a>
-            </li>
             <li>Curso introductorio HTML -> 
                 <a href="https://www.youtube.com/watch?v=MJkdaVFHrto" target="_blank" rel="noopener noreferrer" >Contenido</a>
+            </li>
+            <li>Curso introductorio CSS -> 
+                <a href="https://www.youtube.com/watch?v=wZniZEbPAzk" target="_blank" rel="noopener noreferrer" >Contenido</a>
             </li>
         </p>
     </h4>
