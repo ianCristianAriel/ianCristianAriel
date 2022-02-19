@@ -10,7 +10,9 @@
     <h4 style="text-decoration: underline;">📚 Estudio ciencia de datos y inteligencia artificial</h4>
     <h4 style="text-decoration: underline">📖 Mis certificaciones y cursos:
         <p>
-            <li>Programación profesional desde cero (Completado). Certificado -> https://udemy-certificate.s3.amazonaws.com/pdf/UC-4aed3ef2-a552-43a4-9c12-80e842b3d162.pdf</li>
+            <li>Programación profesional desde cero (Completado). Certificado -> 
+                <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-4aed3ef2-a552-43a4-9c12-80e842b3d162.pdf" target="_blank" rel="noopener noreferrer" >link</a>
+            </li>
             <li>Pyton desde cero (Completado). Contenido -> https://youtube.com/playlist?list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS</li>
             <li>Curso Git & GitHub (Completado). Contenido -> https://youtube.com/playlist?list=PLU8oAlHdN5BlyaPFiNQcV0xDqy0eR35aU</li>
             <li>Curso SQL (Completado). Contenido -> https://youtube.com/playlist?list=PLU8oAlHdN5Bmx-LChV4K3MbHrpZKefNwn</li>
