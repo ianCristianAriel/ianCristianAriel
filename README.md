@@ -16,10 +16,18 @@
             <li>Pyton desde cero ->
                 <a href="https://youtube.com/playlist?list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS" target="_blank" rel="noopener noreferrer" >Contenido</a>
             </li>
-            <li>Curso Git & GitHub (Completado). Contenido -> https://youtube.com/playlist?list=PLU8oAlHdN5BlyaPFiNQcV0xDqy0eR35aU</li>
-            <li>Curso SQL (Completado). Contenido -> https://youtube.com/playlist?list=PLU8oAlHdN5Bmx-LChV4K3MbHrpZKefNwn</li>
-            <li>Curso introductorio CSS (Completado) -> https://www.youtube.com/watch?v=wZniZEbPAzk</li>
-            <li>Curso introductorio HTML (Completado) -> https://www.youtube.com/watch?v=MJkdaVFHrto</li>
+            <li>Curso Git & GitHub -> 
+                <a href="https://youtube.com/playlist?list=PLU8oAlHdN5BlyaPFiNQcV0xDqy0eR35aU" target="_blank" rel="noopener noreferrer" >Contenido</a>
+            </li>
+            <li>Curso SQL ->
+                <a href="https://youtube.com/playlist?list=PLU8oAlHdN5Bmx-LChV4K3MbHrpZKefNwn" target="_blank" rel="noopener noreferrer" >Contenido</a>
+            </li>
+            <li>Curso introductorio CSS -> 
+                <a href="https://www.youtube.com/watch?v=wZniZEbPAzk" target="_blank" rel="noopener noreferrer" >Contenido</a>
+            </li>
+            <li>Curso introductorio HTML -> 
+                <a href="https://www.youtube.com/watch?v=MJkdaVFHrto" target="_blank" rel="noopener noreferrer" >Contenido</a>
+            </li>
         </p>
     </h4>
 </body>
