@@ -32,6 +32,7 @@
             </li>
         </p>
     </h4>
-    <img src="![datos personales](https://user-images.githubusercontent.com/99191825/154821684-1d671de6-2a03-4b32-a06a-e2e29bb7164d.PNG)" whidth="400">
+    <img src="![datos personales](https://user-images.githubusercontent.com/99191825/154821684-1d671de6-2a03-4b32-a06a-e2e29bb7164d.PNG)" >
+    ![datos personales](https://user-images.githubusercontent.com/99191825/154821684-1d671de6-2a03-4b32-a06a-e2e29bb7164d.PNG)
 </body>
 </html>
