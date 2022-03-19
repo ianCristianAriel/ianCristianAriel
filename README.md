@@ -31,7 +31,7 @@
             </li>
         </p>
     <h4 style="text-decoration: underline;">📚 Actualmente estudio ciencia de datos e inteligencia artificial</h4>
-    <img src="https://user-images.githubusercontent.com/99191825/154821684-1d671de6-2a03-4b32-a06a-e2e29bb7164d.PNG" >
+    <img src="https://github.com/ianCristianAriel/ianCristianAriel/issues/1#issue-1144865215">
 
 </body>
 </html>
