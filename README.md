@@ -9,7 +9,6 @@
     <h2>
 </head>
 <body>
-    <h4 style="text-decoration: underline;">📚 Estudio ciencia de datos y inteligencia artificial</h4>
     <h4 style="text-decoration: underline">📖 Cursos realizados y certificaciones:
         <p>
             <li>Programación profesional desde cero -> 
@@ -31,7 +30,7 @@
                 <a href="https://www.youtube.com/watch?v=wZniZEbPAzk" target="_blank" rel="noopener noreferrer" >Contenido</a>
             </li>
         </p>
-    </h4>
+    <h4 style="text-decoration: underline;">📚 Actualmente estudio ciencia de datos e inteligencia artificial</h4>
     <img src="https://user-images.githubusercontent.com/99191825/154821684-1d671de6-2a03-4b32-a06a-e2e29bb7164d.PNG" >
 
 </body>
