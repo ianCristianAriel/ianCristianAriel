@@ -30,7 +30,6 @@
                 <a href="https://www.youtube.com/watch?v=wZniZEbPAzk" target="_blank" rel="noopener noreferrer" >Contenido</a>
             </li>
         </p>
-    <h4 style="text-decoration: underline;">📚 Actualmente estudio ciencia de datos e inteligencia artificial</h4>
     <img src="https://user-images.githubusercontent.com/99191825/159103504-93b527b7-5d79-45ce-ac1c-d29c5836465e.JPG">
 
 </body>
