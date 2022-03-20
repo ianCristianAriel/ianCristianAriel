@@ -14,6 +14,9 @@
             <li>Programación profesional desde cero -> 
                 <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-4aed3ef2-a552-43a4-9c12-80e842b3d162.pdf" target="_blank" rel="noopener noreferrer" >Certificado</a>
             </li>
+            <li>Curso completo de Python. Desde 0 hasta Proyectos con Django -> 
+                <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-4725caa9-c283-498d-9512-3b1b384536d2.pdf" target="_blank" rel="noopener noreferrer" >Certificado</a>
+            </li>
             <li>Pyton desde cero ->
                 <a href="https://youtube.com/playlist?list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS" target="_blank" rel="noopener noreferrer" >Contenido</a>
             </li>
