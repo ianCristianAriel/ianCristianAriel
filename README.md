@@ -9,4 +9,4 @@
 
 📫  *Contacto:* 
 - **Email**: ian.00@hotmail.com
-- **Linkedin**: [Ian Cristian Yané](www.linkedin.com/in/iancristianyane/ "Ian Cristian Yané")
+- **Linkedin**: www.linkedin.com/in/iancristianyane/
