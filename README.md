@@ -4,7 +4,7 @@
 
 💬  *Manejo con fluidez* **Python**, **MySQL** y **MongoDB**
 
- 🔭  *Estudio una* **tecnicatura superior** *en* **ciencia de datos*** y curso la ruta de* **data engineer** *en Platzi* 😉
+ 🔭  *Estudio una* **tecnicatura superior** *en* **ciencia de datos**  y curso la ruta de* **data engineer** *en Platzi 😉
 - 🌱  *Aprendiendo GoogleCloud platform*
 
 📫  *Contacto:* 
