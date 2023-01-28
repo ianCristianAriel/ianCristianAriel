@@ -1,4 +1,7 @@
-### Hola, me llamo **Ian**, *soy* **programador** 👋💻
+### Hola, me llamo **Ian** 👋💻
+
+Soy estudiante de **ciencia de datos e inteligencia artificial** con orientacion a **ingenieria de datos**, me interesa desarrollar bases de datos solidas que permitan responder correctamente a las preguntas planteadas por el sector de ciencia de datos tanto en el mediano como en el largo plazo.
+Me apasiona llegar a **soluciones concretas** que puedan aportar un **valor objetivo y medible**, por lo que me mantengo **aprendiendo dia a dia** las nuevas tecnologias que salen al mercado dentro del sector.
 
 📄 En esta plataforma ire subiendo mis **proyectos** 📁
 
