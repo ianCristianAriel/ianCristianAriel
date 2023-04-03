@@ -5,7 +5,7 @@ Me apasiona llegar a **soluciones concretas** que puedan aportar un **valor obje
 
 📄 En esta plataforma ire subiendo mis **proyectos** 📁
 
-💬  *Manejo con fluidez* **Python**, **MySQL** y **MongoDB**
+💬  *Manejo con fluidez* **Python**, **MySQL** y **PostgreSQL**
 
  🔭  *Estudio una* **tecnicatura superior** *en* **ciencia de datos**  *y curso la ruta de* **data engineer** *en Platzi* 😉
 - 🌱  *Aprendiendo Docker*
