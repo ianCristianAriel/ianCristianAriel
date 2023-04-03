@@ -8,8 +8,8 @@ Me apasiona llegar a **soluciones concretas** que puedan aportar un **valor obje
 💬  *Manejo con fluidez* **Python**, **MySQL** y **PostgreSQL**
 
  🔭  *Estudio una* **tecnicatura superior** *en* **ciencia de datos**  *y curso la ruta de* **data engineer** *en Platzi* 😉
-- 🌱  *Aprendiendo Docker*
+- 🌱  *Aprendiendo manipulacion de datos con Numpy y Pandas*
 
 📫  *Contacto:* 
 - **Email**: ian.00@hotmail.com
-- **Linkedin**: www.linkedin.com/in/iancristianyane/
+- **Linkedin**: [IanCristianYane](www.linkedin.com/in/iancristianyane/)
