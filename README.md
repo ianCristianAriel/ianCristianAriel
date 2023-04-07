@@ -12,4 +12,4 @@ Me apasiona llegar a **soluciones concretas** que puedan aportar un **valor obje
 
 📫  *Contacto:* 
 - **Email**: ian.00@hotmail.com
-- **Linkedin**: [IanCristianYane](www.linkedin.com/in/iancristianyane/ target="_blank")
+- **Linkedin**: [IanCristianYane]('www.linkedin.com/in/iancristianyane/')
