@@ -9,8 +9,3 @@ Me apasiona llegar a **soluciones concretas** que puedan aportar un **valor obje
 
  🔭  *Estudio una* **tecnicatura superior** *en* **ciencia de datos**  *y curso la ruta de* **data engineer** *en Platzi* 😉
 - 🌱  *Aprendiendo manipulacion de datos con Numpy y Pandas*
-
-📫  *Contacto:* 
-- **Email**: ian.00@hotmail.com
-- **Linkedin**: IanCristianYane
-
