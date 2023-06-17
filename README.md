@@ -1,11 +1,12 @@
-### Hola, me llamo **Ian** 👋💻
+### Hello, my name is **Ian** 👋💻
 
-Soy estudiante de **ciencia de datos e inteligencia artificial** con orientacion a **ingenieria de datos**, me interesa desarrollar bases de datos solidas que permitan responder correctamente a las preguntas planteadas por el sector de ciencia de datos tanto en el mediano como en el largo plazo.
-Me apasiona llegar a **soluciones concretas** que puedan aportar un **valor objetivo y medible**, por lo que me mantengo **aprendiendo dia a dia** las nuevas tecnologias que salen al mercado dentro del sector.
+I'm a student of **data science and artificial intelligence** with a focus on **data engineering**. I'm interested in developing robust databases that can effectively answer the questions posed by the data science field in the medium and long term.
+I'm passionate about reaching **concrete solutions** that can provide **objective and measurable value**, which is why I'm constantly **learning new technologies** that emerge in the industry.
 
-📄 En esta plataforma ire subiendo mis **proyectos** 📁
+📄 On this platform, I will be uploading my **projects** 📁
 
-💬  *Manejo con fluidez* **Python**, **MySQL** y **PostgreSQL**
+💬 I am **proficient in** **Python**, **MySQL**, and **PostgreSQL**.
 
- 🔭  *Estudio una* **tecnicatura superior** *en* **ciencia de datos**  *y curso la ruta de* **data engineer** *en Platzi* 😉
-- 🌱  *Aprendiendo manipulacion de datos con Numpy y Pandas*
+🔭 I am pursuing a **higher technical degree** in **data science** and taking the **data engineer** path on Platzi 😉
+
+- 🌱 Currently, I'm learning data manipulation with Numpy and Pandas.
