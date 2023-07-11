@@ -1,3 +1,5 @@
+![Big Data](https://github.com/ianCristianAriel/ianCristianAriel/tree/main/imagen.png) 
+
 ### Hello, my name is **Ian** 👋💻
 
 I'm a student of **data science and artificial intelligence** with a focus on **data engineering**. I'm interested in developing robust databases that can effectively answer the questions posed by the data science field in the medium and long term.
