@@ -1,5 +1,3 @@
-![Big Data](https://github.com/ianCristianAriel/ianCristianAriel/blob/main/imagen.png) 
-
 ### Hola, mi nombre es **Ian** 👋💻
 
 Soy un estudiante de **ciencia de datos e inteligencia artificial** con un enfoque en **ingeniería de datos**. Estoy interesado en desarrollar bases de datos sólidas que puedan responder de manera efectiva a las preguntas planteadas por el campo de la ciencia de datos a mediano y largo plazo.
