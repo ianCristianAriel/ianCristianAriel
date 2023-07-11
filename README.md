@@ -1,4 +1,4 @@
-![Big Data](https://github.com/ianCristianAriel/ianCristianAriel/tree/main/imagen.png) 
+![Big Data](https://github.com/ianCristianAriel/ianCristianAriel/blob/main/imagen.png) 
 
 ### Hello, my name is **Ian** 👋💻
 
