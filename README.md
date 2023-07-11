@@ -1,14 +1,15 @@
 ![Big Data](https://github.com/ianCristianAriel/ianCristianAriel/blob/main/imagen.png) 
 
-### Hello, my name is **Ian** 👋💻
+### Hola, mi nombre es **Ian** 👋💻
 
-I'm a student of **data science and artificial intelligence** with a focus on **data engineering**. I'm interested in developing robust databases that can effectively answer the questions posed by the data science field in the medium and long term.
-I'm passionate about reaching **concrete solutions** that can provide **objective and measurable value**, which is why I'm constantly **learning new technologies** that emerge in the industry.
+Soy un estudiante de **ciencia de datos e inteligencia artificial** con un enfoque en **ingeniería de datos**. Estoy interesado en desarrollar bases de datos sólidas que puedan responder de manera efectiva a las preguntas planteadas por el campo de la ciencia de datos a mediano y largo plazo.
+Me apasiona llegar a **soluciones concretas** que puedan proporcionar un valor **objetivo y medible**, por eso estoy constantemente **aprendiendo nuevas tecnologías** que surgen en la industria.
 
-📄 On this platform, I will be uploading my **projects** 📁
+📄 En esta plataforma, estaré subiendo mis **proyectos** 📁
 
-💬 I am **proficient in** **Python**, **MySQL**, and **PostgreSQL**.
+💬 Tengo conocimientos en **Python**, **MySQL** y **PostgreSQL**.
 
-🔭 I am pursuing a **higher technical degree** in **data science** and taking the **data engineer** path on Platzi 😉
+🔭 Estoy persiguiendo un **título técnico superior** en **ciencia de datos** y siguiendo el camino de **ingeniero de datos** en Platzi 😉
 
-- 🌱 Currently, I'm learning data manipulation with Numpy and Pandas.
+- 🌱 Actualmente, estoy aprendiendo manipulación de datos con Numpy y Pandas.
+
