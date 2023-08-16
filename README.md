@@ -7,4 +7,5 @@ Hola, mi nombre es Ian 👋💻<br>Soy un estudiante de una tecnicatura superior
 
 ### 🌱 Tecnologias que estoy aprendiendo:
 
-Actualmente, estoy aprendiendo ingenieria de datos sobre AWS y funadmentos de Machine Learning.
+ - Ingenieria de datos sobre AWS
+ - Funadmentos de Machine Learning.
