@@ -13,10 +13,6 @@ Soy un estudiante apasionado de ciencia de datos e inteligencia artificial. Mi o
 - Ingeniería de datos sobre AWS
 - Fundamentos de Machine Learning
 
-## 📈 Estadísticas
-
-![Estadísticas](https://github-readme-stats.vercel.app/api/top-langs/?username=ianCristianAriel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ---
 *Última Actualización: [16/08/2023]*
 
