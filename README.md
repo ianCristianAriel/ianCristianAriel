@@ -5,6 +5,6 @@ Hola, mi nombre es Ian 👋💻<br>Soy un estudiante de una tecnicatura superior
   
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ianCristianAriel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🌱 Aprendizaje:
+### 🌱 Tecnologias que estoy aprendiendo:
 
 Actualmente, estoy aprendiendo ingenieria de datos sobre AWS y funadmentos de Machine Learning.
