@@ -1,6 +1,6 @@
 # ¡Hola, soy Ian! 👋💻
 
-Soy un estudiante apasionado de ciencia de datos e inteligencia artificial con un enfoque en la ingeniería y análisis de datos. Mi objetivo es desarrollar y analisar bases de datos sólidas que puedan responder de manera efectiva a las preguntas que dan solucion u optimizan los recursos empresariales. Mi pasión radica en encontrar soluciones concretas que proporcionen un valor objetivo y medible. Siempre estoy emocionado de aprender nuevas tecnologías emergentes en la industria.
+Soy un estudiante apasionado de ciencia de datos e inteligencia artificial. Mi objetivo es desarrollar y/u analisar bases de datos sólidas que puedan responder de manera efectiva a las preguntas que dan solucion u optimizan los recursos empresariales. Mi pasión radica en encontrar soluciones concretas que proporcionen un valor objetivo y medible. Siempre estoy emocionado de aprender nuevas tecnologías emergentes en la industria.
 
 ## 🚀 Habilidades y Tecnologías
 
