@@ -17,8 +17,6 @@ Soy un estudiante apasionado de ciencia de datos e inteligencia artificial con u
 
 ![Estadísticas](https://github-readme-stats.vercel.app/api/top-langs/?username=ianCristianAriel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 📬 ¡Conéctate conmigo!
-
 ---
 *Última Actualización: [16/08/2023]*
 
