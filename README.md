@@ -2,7 +2,7 @@
 
 <font face = "Calibri" size = 16 color = #000000>Soy un estudiante apasionado de **ciencia de datos e inteligencia artificial**. Mi objetivo es trabajar sobre el **analisis de bases de datos sólidas**, para **responder de manera efectiva** a la **optimizacion** de los recursos empresariales. Mi pasión radica en encontrar **soluciones concretas** que proporcionen un **valor objetivo y medible** por lo que siempre estoy emocionado de aprender **nuevas tecnologías emergentes** en la industria.</font>
 
-### 🚀 Tecnologías que domino:
+### * Tecnologías que domino 🚀 :
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -19,7 +19,7 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
 
-### 🌱 Tecnologías que estoy aprendiendo:
+### * Tecnologías que estoy aprendiendo 🌱 :
 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
