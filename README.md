@@ -1,6 +1,6 @@
 #  <font face = "Calibri" color = #000000> ¡Hola, soy Ian! 👋💻  </font>
 
-<font face = "Calibri" size = 16 color = #000000>Soy un estudiante apasionado de **ciencia de datos e inteligencia artificial**. Mi objetivo es trabajar sobre el **analisis de bases de datos sólidas**, para **responder de manera efectiva** a la **optimizacion** de los recursos empresariales. Mi pasión radica en encontrar **soluciones concretas** que proporcionen un **valor objetivo y medible** por lo que siempre estoy emocionado de aprender **nuevas tecnologías emergentes** en la industria.</font>
+<font face = "Calibri" size = 16 color = #000000>Estudiante **apasionado de la ciencia, análisis e ingeniería de datos**. Mi objetivo principal es trabajar con bases de datos sólidas para abordar de manera efectiva la optimización de recursos empresariales. Mi pasión radica en **descubrir soluciones concretas que generen un valor medible y objetivo**. Siempre me entusiasma la oportunidad de **explorar y aprender las últimas tecnologías emergentes en la industria**</font>
 
 ### * Tecnologías que domino:
 
@@ -37,5 +37,5 @@
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
 
 ---
-*Última Actualización: [19/08/2023]*
+*Última Actualización: [20/08/2023]*
 
