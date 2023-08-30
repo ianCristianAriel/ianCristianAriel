@@ -1,5 +1,7 @@
 <div align="center"> 
+    
 # ¡Hola, soy Ian! 👋💻 
+
 </div>
 
 <div style="display: flex; align-items: center;">
