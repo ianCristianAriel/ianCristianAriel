@@ -1,4 +1,6 @@
-<div align="center"> # ¡Hola, soy Ian! 👋💻 </div>
+<div align="center"> 
+    # ¡Hola, soy Ian! 👋💻 
+</div>
 
 <div style="display: flex; align-items: center;">
     <div style="flex: 2; margin-right: 20px; margin-left: 20px;"> <!-- Agregado el margen a la derecha -->
