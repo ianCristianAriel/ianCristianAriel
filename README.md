@@ -1,8 +1,6 @@
 <h1 align="center">¡Hola, soy Ian! 👋💻</h1>
 
-<div align="right">
-    <img width="800" height="300" src="https://cdn.pixabay.com/animation/2023/05/14/10/41/10-41-30-327_512.gif" style="border-radius: 15px;">
-</div>
+<img align="right" width="150" height="150" src="[https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif](https://cdn.pixabay.com/animation/2023/05/14/10/41/10-41-30-327_512.gif)"></a>
 
 <p style="text-align: justify; margin: 0 20%;">
     <strong>Estudiante apasionado de la ciencia, análisis e ingeniería de datos</strong>. Mi objetivo principal es trabajar con bases de datos sólidas para abordar de manera efectiva la optimización de recursos. Mi pasión radica en <strong>descubrir soluciones concretas que generen un valor medible y objetivo</strong>. Siempre me entusiasma la oportunidad de <strong>explorar y aprender las últimas tecnologías emergentes en el área</strong>.
