@@ -1,7 +1,7 @@
 
 # ¡Hola, soy Ian! 👋💻
 
-<img align="left" width="250" height="130" src="https://media.tenor.com/kyeNs4DnuW0AAAAC/dev_animado.gif"></a>
+<img align="left" width="240" height="120" src="https://media.tenor.com/kyeNs4DnuW0AAAAC/dev_animado.gif"></a>
 
 Estudiante **apasionado de la ciencia, análisis e ingeniería de datos**. Mi objetivo principal es trabajar con bases de datos sólidas para abordar de manera efectiva la optimización de recursos. Mi pasión radica en **descubrir soluciones concretas que generen un valor medible y objetivo**. Siempre me entusiasma la oportunidad de **explorar y aprender las últimas tecnologías emergentes en el área**.
 
