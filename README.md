@@ -1,4 +1,4 @@
-<h1 ¡Hola, soy Ian! 👋💻 </h1>
+<h1> ¡Hola, soy Ian! 👋💻 </h1>
 
 <img align="right" width="100" height="100" src="./torta.gif" style="margin-right: 80px;">
 
