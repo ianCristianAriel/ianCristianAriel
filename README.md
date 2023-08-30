@@ -1,10 +1,8 @@
-<h1> ¡Hola, soy Ian! 👋💻 </h1>
+# ¡Hola, soy Ian! 👋💻
 
 <img align="right" width="90" height="90" src="./torta.gif" style="margin-right: 40px;">
 
-<p style="text-align: justify; margin-top: 30px;"> <!-- Aumentar el margen superior -->
-    <strong>Estudiante apasionado de la ciencia, análisis e ingeniería de datos</strong>. Mi objetivo principal es trabajar con bases de datos sólidas para abordar de manera efectiva la optimización de recursos. Mi pasión radica en <strong>descubrir soluciones concretas que generen un valor medible y objetivo</strong>. Siempre me entusiasma la oportunidad de <strong>explorar y aprender las últimas tecnologías emergentes en el área</strong>.
-</p>
+Estudiante apasionado de la ciencia, análisis e ingeniería de datos. Mi objetivo principal es trabajar con bases de datos sólidas para abordar de manera efectiva la optimización de recursos. Mi pasión radica en descubrir soluciones concretas que generen un valor medible y objetivo. Siempre me entusiasma la oportunidad de explorar y aprender las últimas tecnologías emergentes en el área.
 
 ## Tecnologías que domino:
 
@@ -41,4 +39,5 @@
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ---
-*Última Actualización: [30/08/2023]*
+
+*Última Actualización: 30/08/2023*
