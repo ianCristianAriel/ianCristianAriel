@@ -1,15 +1,40 @@
-# ¡Hola, soy Ian! 👋💻
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.container {
+  display: flex;
+  align-items: center;
+}
 
-<div style="display: flex;">
-    <div style="flex: 3;">
-        Estudiante **apasionado de la ciencia, análisis e ingeniería de datos**. Mi objetivo principal es trabajar con bases de datos sólidas para abordar de manera efectiva la optimización de recursos. Mi pasión radica en **descubrir soluciones concretas que generen un valor medible y objetivo**. Siempre me entusiasma la oportunidad de **explorar y aprender las últimas tecnologías emergentes en el área**.
-    </div>
-    <div style="flex: 1; margin-left: 20px;">
-        <img src="./world.jpg" alt="Imagen" width="200"/>
-    </div>
+.description {
+  flex: 3;
+}
+
+.image {
+  flex: 1;
+  margin-left: 20px;
+}
+
+.image img {
+  width: 200px;
+}
+</style>
+</head>
+<body>
+
+<h1>¡Hola, soy Ian! 👋💻</h1>
+
+<div class="container">
+  <div class="description">
+    <p><strong>Estudiante apasionado de la ciencia, análisis e ingeniería de datos</strong>. Mi objetivo principal es trabajar con bases de datos sólidas para abordar de manera efectiva la optimización de recursos. Mi pasión radica en <strong>descubrir soluciones concretas que generen un valor medible y objetivo</strong>. Siempre me entusiasma la oportunidad de <strong>explorar y aprender las últimas tecnologías emergentes en el área</strong>.</p>
+  </div>
+  <div class="image">
+    <img src="./world.jpg" alt="Imagen">
+  </div>
 </div>
 
-### Tecnologías que domino:
+<h2>Tecnologías que domino:</h2>
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
