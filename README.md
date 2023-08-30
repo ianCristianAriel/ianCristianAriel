@@ -6,7 +6,7 @@
 
 <div style="display: flex; align-items: center;">
     <div style="flex: 2; margin-right: 20px; margin-left: 20px;"> <!-- Agregado el margen a la derecha -->
-        <img align="center" width="1000" height="300" src="https://media.tenor.com/C9yxFcjG0OsAAAAd/world-connected-planet.gif" style="border-radius: 15px;">
+        <img align="center" width="900" height="300" src="https://media.tenor.com/C9yxFcjG0OsAAAAd/world-connected-planet.gif" style="border-radius: 15px;">
     </div>
     <div style="flex: 3; padding-left: 20px;">
         <p><strong>Estudiante apasionado de la ciencia, análisis e ingeniería de datos</strong>. Mi objetivo principal es trabajar con bases de datos sólidas para abordar de manera efectiva la optimización de recursos. Mi pasión radica en <strong>descubrir soluciones concretas que generen un valor medible y objetivo</strong>. Siempre me entusiasma la oportunidad de <strong>explorar y aprender las últimas tecnologías emergentes en el área</strong>.</p>
