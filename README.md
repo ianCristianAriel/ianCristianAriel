@@ -1,14 +1,11 @@
-<img align="center" width="1000" height="300" src="https://media.tenor.com/C9yxFcjG0OsAAAAd/world-connected-planet.gif" style="border-radius: 15px;">
-
-</div>
-   
-# ¡Hola, soy Ian! 👋💻 
-
-<p><strong>Estudiante apasionado de la ciencia, análisis e ingeniería de datos</strong>. Mi objetivo principal es trabajar con bases de datos sólidas para abordar de manera efectiva la optimización de recursos. Mi pasión radica en <strong>descubrir soluciones concretas que generen un valor medible y objetivo</strong>. Siempre me entusiasma la oportunidad de <strong>explorar y aprender las últimas tecnologías emergentes en el área</strong>.</p>
-
+<div align="center">
+    <img width="800" height="300" src="https://media.tenor.com/C9yxFcjG0OsAAAAd/world-connected-planet.gif" style="border-radius: 15px;">
 </div>
 
-</div>
+<h1 align="center">¡Hola, soy Ian! 👋💻</h1>
+
+<p align="center"><strong>Estudiante apasionado de la ciencia, análisis e ingeniería de datos</strong>. Mi objetivo principal es trabajar con bases de datos sólidas para abordar de manera efectiva la optimización de recursos. Mi pasión radica en <strong>descubrir soluciones concretas que generen un valor medible y objetivo</strong>. Siempre me entusiasma la oportunidad de <strong>explorar y aprender las últimas tecnologías emergentes en el área</strong>.</p>
+
 
 ## Tecnologías que domino:
 
