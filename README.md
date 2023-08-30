@@ -1,14 +1,12 @@
 <h1 align="center">¡Hola, soy Ian! 👋💻</h1>
 
-<img align="left" width="100" height="100" src="./torta.gif">
+<img align="left" width="100" height="100" src="./torta.gif" style="margin-right: 20px;">
 
-<br> <!-- Agregar un salto de línea para separar la imagen del texto -->
-
-<p style="text-align: justify; margin: 0 20%;">
+<p style="text-align: justify;">
     <strong>Estudiante apasionado de la ciencia, análisis e ingeniería de datos</strong>. Mi objetivo principal es trabajar con bases de datos sólidas para abordar de manera efectiva la optimización de recursos. Mi pasión radica en <strong>descubrir soluciones concretas que generen un valor medible y objetivo</strong>. Siempre me entusiasma la oportunidad de <strong>explorar y aprender las últimas tecnologías emergentes en el área</strong>.
 </p>
 
-## Tecnologías que domino:
+## Tecnologías que domino
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
