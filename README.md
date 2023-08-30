@@ -1,8 +1,4 @@
 
-Por supuesto, puedo ayudarte a optimizar y mejorar la apariencia de tu README para que sea más homogéneo y simétrico. Aquí tienes una versión mejorada:
-
-markdown
-Copy code
 # ¡Hola, soy Ian! 👋💻
 
 <div style="display: flex; align-items: center;">
