@@ -5,7 +5,7 @@
         Estudiante **apasionado de la ciencia, análisis e ingeniería de datos**. Mi objetivo principal es trabajar con bases de datos sólidas para abordar de manera efectiva la optimización de recursos. Mi pasión radica en **descubrir soluciones concretas que generen un valor medible y objetivo**. Siempre me entusiasma la oportunidad de **explorar y aprender las últimas tecnologías emergentes en el área**.
     </div>
     <div style="flex: 1; margin-left: 20px;">
-        <img src="https://cdn.pixabay.com/photo/2023/02/12/12/58/space-7785052_1280.jpg" alt="Imagen" width="200"/>
+        <img src="./world.jpg" alt="Imagen" width="200"/>
     </div>
 </div>
 
