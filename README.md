@@ -2,7 +2,6 @@
 <html>
 <head>
 <style>
-  
 .container {
   display: flex;
   align-items: center;
@@ -37,7 +36,6 @@
 
 <h2>Tecnologías que domino:</h2>
 
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -71,3 +69,9 @@
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 Última Actualización: 20/08/2023
+
+
+</body>
+</html>
+
+
