@@ -1,11 +1,20 @@
 
+Por supuesto, puedo ayudarte a optimizar y mejorar la apariencia de tu README para que sea más homogéneo y simétrico. Aquí tienes una versión mejorada:
+
+markdown
+Copy code
 # ¡Hola, soy Ian! 👋💻
 
-<img align="right" width="230" height="100" src="https://media.tenor.com/ccHpzMLFfEMAAAAd/stats-graph.gif"></a>
+<div style="display: flex; align-items: center;">
+    <div style="flex: 2;">
+        <img src="https://media.tenor.com/ccHpzMLFfEMAAAAd/stats-graph.gif" alt="GIF" width="230" height="100" style="border-radius: 8px;">
+    </div>
+    <div style="flex: 3; padding-left: 20px;">
+        <p><strong>Estudiante apasionado de la ciencia, análisis e ingeniería de datos</strong>. Mi objetivo principal es trabajar con bases de datos sólidas para abordar de manera efectiva la optimización de recursos. Mi pasión radica en <strong>descubrir soluciones concretas que generen un valor medible y objetivo</strong>. Siempre me entusiasma la oportunidad de <strong>explorar y aprender las últimas tecnologías emergentes en el área</strong>.</p>
+    </div>
+</div>
 
-Estudiante **apasionado de la ciencia, análisis e ingeniería de datos**. Mi objetivo principal es trabajar con bases de datos sólidas para abordar de manera efectiva la optimización de recursos. Mi pasión radica en **descubrir soluciones concretas que generen un valor medible y objetivo**. Siempre me entusiasma la oportunidad de **explorar y aprender las últimas tecnologías emergentes en el área**.
-
-### Tecnologías que domino:
+## Tecnologías que domino:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -22,7 +31,7 @@ Estudiante **apasionado de la ciencia, análisis e ingeniería de datos**. Mi ob
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
 
-### Tecnologías que estoy aprendiendo:
+## Tecnologías que estoy aprendiendo:
 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -39,4 +48,4 @@ Estudiante **apasionado de la ciencia, análisis e ingeniería de datos**. Mi ob
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-Última Actualización: 20/08/2023
+Última Actualización: 30/08/2023
