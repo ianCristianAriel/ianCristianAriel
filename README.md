@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="800" height="300" src="https://media.tenor.com/i0nzuUl-6wQAAAAC/background.gif" style="border-radius: 15px;">
+    <img width="800" height="300" src="https://media.tenor.com/7n8frB83Tc8AAAAd/n-project-the-n-project.gif" style="border-radius: 15px;">
 </div>
 
 <h1 align="center">¡Hola, soy Ian! 👋💻</h1>
