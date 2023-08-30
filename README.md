@@ -1,13 +1,20 @@
-#  <font face = "Calibri" color = #000000> ¡Hola, soy Ian! 👋💻  </font>
+# ¡Hola, soy Ian! 👋💻
 
-<font face = "Calibri" size = 16 color = #000000>Estudiante **apasionado de la ciencia, análisis e ingeniería de datos**. Mi objetivo principal es trabajar con bases de datos sólidas para abordar de manera efectiva la optimización de recursos. Mi pasión radica en **descubrir soluciones concretas que generen un valor medible y objetivo**. Siempre me entusiasma la oportunidad de **explorar y aprender las últimas tecnologías emergentes en el area**</font>
+<div style="display: flex;">
+    <div style="flex: 1; margin-right: 20px;">
+        <img src="[URL_DE_LA_IMAGEN.jpg](https://cdn.pixabay.com/photo/2023/02/12/12/58/space-7785052_1280.jpg)" alt="Imagen" width="200"/>
+    </div>
+    <div style="flex: 3;">
+        Estudiante **apasionado de la ciencia, análisis e ingeniería de datos**. Mi objetivo principal es trabajar con bases de datos sólidas para abordar de manera efectiva la optimización de recursos. Mi pasión radica en **descubrir soluciones concretas que generen un valor medible y objetivo**. Siempre me entusiasma la oportunidad de **explorar y aprender las últimas tecnologías emergentes en el área**.
+    </div>
+</div>
 
-### * Tecnologías que domino:
+### Tecnologías que domino:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%23white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -19,7 +26,7 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
 
-### * Tecnologías que estoy aprendiendo:
+### Tecnologías que estoy aprendiendo:
 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -34,8 +41,6 @@
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
----
-*Última Actualización: [20/08/2023]*
-
+Última Actualización: 20/08/2023
