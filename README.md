@@ -2,7 +2,7 @@
 # ¡Hola, soy Ian! 👋💻
 
 <div style="display: flex; align-items: center;">
-    <div style="flex: 2;">
+    <div style="flex: 2; margin-right: 20px;"> <!-- Agregado el margen a la derecha -->
         <img align="right" width="230" height="100" src="https://media.tenor.com/ccHpzMLFfEMAAAAd/stats-graph.gif" style="border-radius: 8px;">
     </div>
     <div style="flex: 3; padding-left: 20px;">
