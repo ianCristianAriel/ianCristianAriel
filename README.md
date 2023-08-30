@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola, soy Ian! 👋💻</h1>
 
-<div align="center">
-    <img width="800" height="300" src="./grafico.gif" style="border-radius: 15px;">
+<div align="right">
+    <img width="800" height="300" src="https://cdn.pixabay.com/animation/2023/05/14/10/41/10-41-30-327_512.gif" style="border-radius: 15px;">
 </div>
 
 <p style="text-align: justify; margin: 0 20%;">
