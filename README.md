@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola, soy Ian! 👋💻</h1>
 
-<img align="right" width="120" height="120" src="./torta.gif"></a>
+<img align="right" width="100" height="100" src="./torta.gif"></a>
 
 <p style="text-align: justify; margin: 0 20%;">
     <strong>Estudiante apasionado de la ciencia, análisis e ingeniería de datos</strong>. Mi objetivo principal es trabajar con bases de datos sólidas para abordar de manera efectiva la optimización de recursos. Mi pasión radica en <strong>descubrir soluciones concretas que generen un valor medible y objetivo</strong>. Siempre me entusiasma la oportunidad de <strong>explorar y aprender las últimas tecnologías emergentes en el área</strong>.
