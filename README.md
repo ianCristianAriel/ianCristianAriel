@@ -1,25 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-<style>
-.container {
-  display: flex;
-  align-items: center;
-}
-
-.description {
-  flex: 3;
-}
-
-.image {
-  flex: 1;
-  margin-left: 20px;
-}
-
-.image img {
-  width: 200px;
-}
-</style>
 </head>
 <body>
 
