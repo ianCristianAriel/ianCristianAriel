@@ -1,21 +1,9 @@
-<!DOCTYPE html>
-<html>
-</head>
-<body>
+<img align="right" width="150" height="150" src="./matrix.gif"></a>
+# ¡Hola, soy Ian! 👋💻
 
-<h1>¡Hola, soy Ian! 👋💻</h1>
+Estudiante **apasionado de la ciencia, análisis e ingeniería de datos**. Mi objetivo principal es trabajar con bases de datos sólidas para abordar de manera efectiva la optimización de recursos. Mi pasión radica en **descubrir soluciones concretas que generen un valor medible y objetivo**. Siempre me entusiasma la oportunidad de **explorar y aprender las últimas tecnologías emergentes en el área**.
 
-<div style="display: flex;">
-    <div style="flex: 3;">
-        <p><strong>Estudiante apasionado de la ciencia, análisis e ingeniería de datos</strong>. Mi objetivo principal es trabajar con bases de datos sólidas para abordar de manera efectiva la optimización de recursos. Mi pasión radica en <strong>descubrir soluciones concretas que generen un valor medible y objetivo</strong>. Siempre me entusiasma la oportunidad de <strong>explorar y aprender las últimas tecnologías emergentes en el área</strong>.</p>
-    </div>
-    <div style="flex: 1; margin-left: 20px;">
-        <img src="./matrix.gif" alt="GIF" width="200" style="border-radius: 8px;">
-    </div>
-</div>
-
-
-<h2>Tecnologías que domino:</h2>
+### Tecnologías que domino:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -50,9 +38,3 @@
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 Última Actualización: 20/08/2023
-
-
-</body>
-</html>
-
-
