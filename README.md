@@ -1,6 +1,6 @@
 # Hola, soy Ian!! 👋🏻👨‍💻
 
-Estudiante apasionado de **Ciencia, Análisis e Ingeniería de Datos**. Paso mis dias aprendiendo las últimas tendencias y tecnologías en el sector, incluyendo fundamentos de ingeniería de software, código limpio y habilidades clave como la **gestión de proyectos, liderazgo, ingles y comunicación efectiva**. 
+Estudiante apasionado de **Ciencia, Análisis e Ingeniería de Datos**. Paso mis dias aprendiendo las últimas tendencias y tecnologías en el sector, incluyendo habilidades espesificas, fundamentos de ingeniería de software, código limpio y habilidades clave como la **gestión de proyectos, liderazgo, ingles y comunicación efectiva**. 
 
 ## Tecnologías que domino:
 
