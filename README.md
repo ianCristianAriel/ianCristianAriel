@@ -1,6 +1,6 @@
 # Hola, soy Ian!! 👋🏻👨‍💻
 
-Estudiante apasionado de la **ciencia, análisis e ingeniería de datos**. Mi objetivo principal es trabajar con bases de datos sólidas para abordar de manera efectiva la **optimización de recursos**. Mi pasión radica en descubrir **soluciones concretas** que generen un valor **medible y objetivo**. Siempre me entusiasma la oportunidad de explorar y aprender las **últimas tecnologías emergentes** en el área.
+Soy un estudiante apasionado de **Ciencia, Análisis e Ingeniería de Datos**. Mi trayectoria en el mundo de la ciencia de datos me ha llevado a explorar las últimas tendencias y tecnologías, incluyendo avances en software y técnicas de análisis de datos. Además, estoy comprometido en el desarrollo de habilidades complementarias como la **gestión de proyectos, el liderazgo, la comunicación efectiva y el dominio del inglés**. Mi repositorio de GitHub refleja mi pasión por resolver problemas a través del análisis de datos y mi constante búsqueda de aprendizaje en un entorno en constante evolución.
 
 ## Tecnologías que domino:
 
