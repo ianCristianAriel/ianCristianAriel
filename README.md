@@ -2,6 +2,7 @@
 
 Soy un estudiante apasionado de la **Ciencia, Análisis e Ingeniería de Datos**, dedicando mis días a la exploración y **aprendizaje constante** de las **últimas tendencias y tecnologías** en este emocionante campo. Mi enfoque incluye la comprensión de conceptos técnicos fundamentales en **ingeniería de software, código limpio** y en habilidades blandas complementarias como **gestión de proyectos y comunicación efectiva**.
 
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)(www.google.com) 	![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ## Tecnologías que domino:
 
