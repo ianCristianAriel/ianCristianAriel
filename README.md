@@ -1,6 +1,6 @@
 # Hola, soy Ian!! 👋🏻👨‍💻
 
-Soy un estudiante apasionado de la **Ciencia de Datos, Análisis de Datos e Ingeniería**, dedicando mis días a la exploración y aprendizaje constante de las últimas tendencias y tecnologías en este emocionante campo. Mi enfoque incluye la comprensión de conceptos tecnicos fundamentales como ingeniería de software, código limpio y habilidades blandas de gestión de proyectos, liderazgo, la comunicación efectiva y dominio del idioma inglés.
+Soy un estudiante apasionado de la **Ciencia de Datos, Análisis de Datos e Ingeniería**, dedicando mis días a la exploración y aprendizaje constante de las últimas tendencias y tecnologías en este emocionante campo. Mi enfoque incluye la comprensión de conceptos tecnicos fundamentales como ingeniería de software, código limpio y habilidades blandas de gestión de proyectos, liderazgo y la comunicación efectiva.
 
 ## Tecnologías que domino:
 
@@ -41,4 +41,4 @@ Soy un estudiante apasionado de la **Ciencia de Datos, Análisis de Datos e Inge
 
 ---
 
-*Última Actualización: 30/08/2023*
+*Última Actualización: 10/09/2023*
