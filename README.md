@@ -39,6 +39,6 @@ Soy un estudiante apasionado de la **Ciencia, Análisis e Ingeniería de Datos**
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-![imagen](https://iplogger.com/1CL7X4)
+![pixel separador](https://bit.ly/3LjvDSz)
 ---
 *Última Actualización: 10/09/2023* 
