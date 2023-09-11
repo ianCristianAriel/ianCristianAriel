@@ -5,7 +5,7 @@ Soy un estudiante apasionado de la **Ciencia, Análisis e Ingeniería de Datos**
 | Encabezado de la columna 1 | Encabezado de la columna 2 | Encabezado de la columna 3 |
 |---------------------------|---------------------------|---------------------------|
 | Celda 1,1                 | Celda 1,2                 | Celda 1,3                 |
-| Celda 2,1                 | Celda 2,2                 | Celda 2,3                 |
+|                           | Celda 2,2                 | Celda 2,3                 |
 | Celda 3,1                 | Celda 3,2                 | Celda 3,3                 |
 
 
