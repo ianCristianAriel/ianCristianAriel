@@ -22,6 +22,7 @@ Soy un estudiante apasionado de la **Ciencia, Análisis e Ingeniería de Datos**
 
                                       
 
+<!-- Se utilizo ChatGPT de OpenAI para la creacion del markdown anterior -->
 
 <!-- ![pixel separador](https://bit.ly/3LjvDSz) -->
 
