@@ -41,7 +41,8 @@ Soy un estudiante apasionado de la **Ciencia, Análisis e Ingeniería de Datos**
 
 ---
 
-*Última Actualización: 10/09/2023* 
-
+## Redes:
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](bit.ly/45O5tzQ)	[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](bit.ly/481CauW) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](bit.ly/3PbWeCq)
+
+*Última Actualización: 10/09/2023* 
