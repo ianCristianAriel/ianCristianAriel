@@ -2,11 +2,12 @@
 
 Soy un estudiante apasionado de la **Ciencia, Análisis e Ingeniería de Datos**, dedicando mis días a la exploración y **aprendizaje constante** de las **últimas tendencias y tecnologías** en este emocionante campo. Mi enfoque incluye la comprensión de conceptos técnicos fundamentales en **ingeniería de software, código limpio** y en habilidades blandas complementarias como **gestión de proyectos y comunicación efectiva**.
 
-| Encabezado de la columna 1 | Encabezado de la columna 2 | Encabezado de la columna 3 |
-|---------------------------|---------------------------|---------------------------|
-| Celda 1,1                 | Celda 1,2                 | Celda 1,3                 |
-|                           | Celda 2,2                 | Celda 2,3                 |
-| Celda 3,1                 | Celda 3,2                 | Celda 3,3                 |
+| Columna 1 (ocupará 2 filas) | Columna 2 | Columna 3 |
+|-----------------------------|-----------|-----------|
+| Celda 1,1                   | Celda 1,2 | Celda 1,3 |
+|                             | Celda 2,2 | Celda 2,3 |
+| Celda 2,1                   | Celda 3,2 | Celda 3,3 |
+
 
 
 ## Tecnologías que domino:
