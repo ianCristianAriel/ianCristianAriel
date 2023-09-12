@@ -23,6 +23,8 @@ Soy un estudiante apasionado de la **Ciencia, Análisis e Ingeniería de Datos**
 
 ![pixel separador](https://bit.ly/3LjvDSz)
 
+![pixel separador](https://iplogger.com/1CL7X4)
+
 ---
 *Última Actualización: 11/09/2023* 
 <!-- Se utilizo ChatGPT de OpenAI para la creacion del markdown anterior -->
