@@ -22,7 +22,9 @@ Mi enfoque incluye la comprensión de conceptos técnicos fundamentales en en el
 | Big Data                  |  -                          | ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) |
 | Cloud Computing           |  -                          | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) |
 
-<!-- ![pixel separador](https://bitly.ws/UU24) -->
+<!--  -->
+
+![pixel separador](https://bitly.ws/UU24)
 
 ---
 *Última Actualización: 11/09/2023* 
