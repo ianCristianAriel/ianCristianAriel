@@ -1,4 +1,3 @@
-# Hola, soy Ian!! 👋🏻👨‍💻
 
 ![portada](./portada.png)
 
