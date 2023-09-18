@@ -28,5 +28,5 @@ Mi enfoque incluye la comprensión de conceptos técnicos fundamentales en en el
 <!-- ![pixel separador](https://bitly.ws/UU24)  -->
 
 ---
-*Última Actualización: 11/09/2023* 
+*Última Actualización: 18/09/2023* 
 <!-- Se utilizo ChatGPT de OpenAI para la creacion del markdown anterior -->
