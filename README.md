@@ -3,8 +3,8 @@
 
 #
 
-Soy un estudiante apasionado de la **Ciencia, Análisis e Ingeniería de Datos**, dedicando mis días a la exploración y **aprendizaje constante** de las **últimas tendencias y tecnologías** en este emocionante campo. 
-Mi enfoque incluye la comprensión de conceptos técnicos fundamentales en en el area, **ingeniería de software, código limpio** y en habilidades blandas complementarias como **gestión de proyectos y comunicación efectiva**.
+Me apasiona la **Ciencia, Análisis e Ingeniería de Datos**, dedio mis días a la exploración y **aprendizaje constante** de las **últimas tendencias y tecnologías** en este emocionante campo. 
+Mi enfoque incluye la comprensión de conceptos técnicos fundamentales en en el area como **ingeniería de software, código limpio** y habilidades blandas complementarias como **gestión de proyectos y comunicación efectiva**.
 
 ## Tecnologias
 
