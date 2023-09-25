@@ -36,6 +36,9 @@ Mi enfoque incluye la comprensión de conceptos técnicos fundamentales en en el
   <img src="https://myreadme.vercel.app/api/embed/ianCristianAriel?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" style="width: 100%;">
 </div>
 -->
+
 ---
+
 *Última Actualización: 25/09/2023* 
+
 <!-- Se utilizo ChatGPT de OpenAI para la creacion del markdown anterior -->
