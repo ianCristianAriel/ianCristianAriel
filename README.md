@@ -27,7 +27,9 @@ Mi enfoque incluye la comprensión de conceptos técnicos fundamentales en en el
 
 <!-- ![pixel separador](https://bitly.ws/UU24)  -->
 
-![dev_gif](./dev.gif)
+<p align="center">
+  <img src="./dev.gif" alt="dev_gif" width="400">
+</p>
 
 ---
 *Última Actualización: 18/09/2023* 
