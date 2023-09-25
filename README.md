@@ -36,8 +36,6 @@ Mi enfoque incluye la comprensión de conceptos técnicos fundamentales en en el
 </div>
 -->
 
-![portada](./portada.png)
-
 ---
 
 *Última Actualización: 25/09/2023* 
