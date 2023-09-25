@@ -31,9 +31,11 @@ Mi enfoque incluye la comprensión de conceptos técnicos fundamentales en en el
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ianCristianAriel&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" style="width: 50%; padding: 10px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ianCristianAriel&theme=tokyonight" alt="mystreak" style="width: 48%; padding: 10px;">
 </div>
+<!--
 <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
   <img src="https://myreadme.vercel.app/api/embed/ianCristianAriel?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" style="width: 100%;">
 </div>
+-->
 ---
-*Última Actualización: 18/09/2023* 
+*Última Actualización: 25/09/2023* 
 <!-- Se utilizo ChatGPT de OpenAI para la creacion del markdown anterior -->
