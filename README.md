@@ -29,7 +29,7 @@ Mi enfoque incluye la comprensión de conceptos técnicos fundamentales en en el
 
 <div style="display: flex; width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ianCristianAriel&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" style="width: 50%; padding: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="mystreak" style="width: 48%; padding: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ianCristianAriel&theme=tokyonight" alt="mystreak" style="width: 48%; padding: 10px;">
 </div>
 
 ---
