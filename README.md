@@ -27,6 +27,8 @@ Mi enfoque incluye la comprensión de conceptos técnicos fundamentales en en el
 
 <!-- ![pixel separador](https://bitly.ws/UU24)  -->
 
+![dev_gif](./dev.gif)
+
 ---
 *Última Actualización: 18/09/2023* 
 <!-- Se utilizo ChatGPT de OpenAI para la creacion del markdown anterior -->
