@@ -5,9 +5,9 @@
 Dedico mis días a la exploración y **aprendizaje constante** de las **últimas tendencias y tecnologías** en el campo de la **Ciencia, Análisis e Ingeniería de Datos**. 
 Mi enfoque incluye la comprensión de conceptos técnicos fundamentales en en el area como **ingeniería de software, matematicas, buenas practicas** y habilidades blandas complementarias como **gestión de proyectos y comunicación efectiva**.
 
-## Tecnologias
+#
 
-| Categoría                 | Dominadas                                           | En desarrollo              |
+| Tecnologias                | Dominadas                                           | En desarrollo              |
 |:------------------------|:---------------------------------------------------|:---------------------------|
 | Bases de Datos            | ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |  -                          |
 | Lenguajes de Programación | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)  | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)| -
@@ -23,8 +23,6 @@ Mi enfoque incluye la comprensión de conceptos técnicos fundamentales en en el
 | Web            |   -                         | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  |
 | Big Data                  |  -                          | ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) |
 | Cloud Computing           |  -                          | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) |
-
-#
 
 <!-- ![pixel separador](https://bitly.ws/UU24)  -->
 
