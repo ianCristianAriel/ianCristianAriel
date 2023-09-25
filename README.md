@@ -27,11 +27,10 @@ Mi enfoque incluye la comprensión de conceptos técnicos fundamentales en en el
 
 <!-- ![pixel separador](https://bitly.ws/UU24)  -->
 
-<img src="https://myreadme.vercel.app/api/embed/ianCristianAriel?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-
-<p align="right">
-  <img src="./dev.gif" alt="dev_gif" width="400">
-</p>
+<div style="display: flex;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" style="flex: 1; padding: 10px;">
+  <img src="./dev.gif" alt="Imagen 2" style="flex: 1; padding: 10px;">
+</div>
 
 ---
 *Última Actualización: 18/09/2023* 
