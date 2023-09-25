@@ -1,3 +1,4 @@
+#
 
 ![portada](./portada.png)
 
@@ -5,6 +6,8 @@
 
 Dedico mis días a la exploración y **aprendizaje constante** de las **últimas tendencias y tecnologías** en el campo de la **Ciencia, Análisis e Ingeniería de Datos**. 
 Mi enfoque incluye la comprensión de conceptos técnicos fundamentales en en el area como **ingeniería de software, matematicas, buenas practicas** y habilidades blandas complementarias como **gestión de proyectos y comunicación efectiva**.
+
+#
 
 ## Tecnologias
 
@@ -25,12 +28,17 @@ Mi enfoque incluye la comprensión de conceptos técnicos fundamentales en en el
 | Big Data                  |  -                          | ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) |
 | Cloud Computing           |  -                          | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) |
 
+#
+
 <!-- ![pixel separador](https://bitly.ws/UU24)  -->
 
 <div style="display: flex; width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ianCristianAriel&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" style="width: 50%; padding: 10px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ianCristianAriel&theme=tokyonight" alt="mystreak" style="width: 48%; padding: 10px;">
 </div>
+
+#
+
 <!--
 <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
   <img src="https://myreadme.vercel.app/api/embed/ianCristianAriel?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" style="width: 100%;">
