@@ -2,10 +2,10 @@
 
 ![portada](./portada.png)
 
-#
-
 Dedico mis días a la exploración y **aprendizaje constante** de las **últimas tendencias y tecnologías** en el campo de la **Ciencia, Análisis e Ingeniería de Datos**. 
 Mi enfoque incluye la comprensión de conceptos técnicos fundamentales en en el area como **ingeniería de software, matematicas, buenas practicas** y habilidades blandas complementarias como **gestión de proyectos y comunicación efectiva**.
+
+#
 
 ## Tecnologias
 
