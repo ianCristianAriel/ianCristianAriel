@@ -27,7 +27,9 @@ Mi enfoque incluye la comprensión de conceptos técnicos fundamentales en en el
 
 <!-- ![pixel separador](https://bitly.ws/UU24)  -->
 
-<p align="center">
+<img src="https://myreadme.vercel.app/api/embed/ianCristianAriel?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+<p align="right">
   <img src="./dev.gif" alt="dev_gif" width="400">
 </p>
 
