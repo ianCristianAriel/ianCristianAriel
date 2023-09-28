@@ -34,9 +34,10 @@
 <!-- ![pixel separador](https://bitly.ws/UU24)  -->
 
 <div style="display: flex; width: 100%;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ianCristianAriel&theme=tokyonight" alt="mystreak" style="width: 40%; padding: 10px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=madushadhanushka&theme=juicyfresh&no-bg=true" alt="ovi" style="width: 60%; padding: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ianCristianAriel&theme=tokyonight" alt="mystreak" style="width: 50%; height: auto; padding: 10px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=madushadhanushka&theme=juicyfresh&no-bg=true" alt="ovi" style="width: 50%; height: auto; padding: 10px;">
 </div>
+
 
 
 <!--
