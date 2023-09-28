@@ -1,9 +1,14 @@
 
 ![portada](./portada.png)
-![dev](https://github.com/ianCristianAriel/ianCristianAriel/blob/main/dev.gif)
 
-Dedico mis días a la exploración y **aprendizaje constante** de las **últimas tendencias y tecnologías** en el campo de la **Ciencia, Análisis e Ingeniería de Datos**. 
-Mi enfoque incluye la comprensión de conceptos técnicos fundamentales en en el area como **ingeniería de software, matematicas, buenas practicas** y habilidades blandas complementarias como **gestión de proyectos y comunicación efectiva**.
+<div align="center">
+  <img src="https://github.com/ianCristianAriel/ianCristianAriel/blob/main/dev.gif" alt="dev" width="200" height="200" />
+</div>
+
+### Acerca de mí
+
+Dedico mis días a la exploración y **aprendizaje constante** de las **últimas tendencias y tecnologías** en el campo de la **Ciencia, Análisis e Ingeniería de Datos**. Mi enfoque incluye la comprensión de conceptos técnicos fundamentales en el área como **ingeniería de software, matemáticas, buenas prácticas** y habilidades blandas complementarias como **gestión de proyectos y comunicación efectiva**.
+
 
 #
 
