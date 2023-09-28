@@ -33,24 +33,6 @@
 
 <!-- ![pixel separador](https://bitly.ws/UU24)  -->
 
-<table align="center" style="width: 100%;">
-  <tr>
-    <td align="center" style="width: 50%;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ianCristianAriel&theme=tokyonight" alt="mystreak" style="width: 100%; padding: 5px;">
-    </td>
-    <td align="center" style="width: 60%;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ianCristianAriel&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" style="width: 100%; padding: 5px;">
-    </td>
-  </tr>
-</table>
-
-
-<!--
-<div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
-  <img src="https://myreadme.vercel.app/api/embed/ianCristianAriel?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" style="width: 100%;">
-</div>
--->
-
 ---
 
 *Última Actualización: 25/09/2023* 
