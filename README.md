@@ -7,7 +7,7 @@
       Dedico mis días a la exploración y <strong>aprendizaje constante</strong> de las <strong>últimas tendencias y tecnologías</strong> en el campo de la <strong>Ciencia, Análisis e Ingeniería de Datos</strong>. Mi enfoque incluye la comprensión de conceptos técnicos fundamentales en el área como <strong>ingeniería de software, matemáticas, buenas prácticas</strong> y habilidades blandas complementarias como <strong>gestión de proyectos y comunicación efectiva</strong>.
     </td>
     <td align="center">
-      <img src="https://github.com/ianCristianAriel/ianCristianAriel/blob/main/dev.gif" alt="dev" width="200" height="200" />
+      <img src="https://github.com/ianCristianAriel/ianCristianAriel/blob/main/dev.svg" alt="dev" width="200" height="200" />
     </td>
   </tr>
 </table>
