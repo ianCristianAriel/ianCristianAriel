@@ -37,7 +37,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ianCristianAriel&theme=tokyonight" alt="mystreak" style="width: 49%; padding: 5px;">
   <img <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ianCristianAriel&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" style="width: 50%; padding: 5px;">
 </div>
-
+<table>
+  <tr>
+    <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ianCristianAriel&theme=tokyonight" alt="mystreak" style="width: 49%; padding: 5px;">
+    </td>
+    <td align="center">
+      <img <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ianCristianAriel&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" style="width: 50%; padding: 5px;">
+    </td>
+  </tr>
+</table>
 
 
 <!--
