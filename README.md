@@ -33,9 +33,9 @@
 
 <!-- ![pixel separador](https://bitly.ws/UU24)  -->
 
-<div class="widget-container">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ianCristianAriel&theme=tokyonight" alt="mystreak" class="widget">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ianCristianAriel&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" class="widget">
+<div style="display: flex; width: 100%;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ianCristianAriel&theme=tokyonight" alt="mystreak" style="width: 48%; padding: 10px;">
+  <img <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ianCristianAriel&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" style="width: 49%; padding: 10px;">
 </div>
 
 
