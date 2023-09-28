@@ -35,7 +35,7 @@
 
 <div style="display: flex; width: 100%;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ianCristianAriel&theme=tokyonight" alt="mystreak" style="width: 48%; padding: 10px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=madushadhanushka&theme=juicyfresh&no-bg=true" alt="ovi" style="width: 48%; padding: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" style="width: 48%; padding: 10px;">
 </div>
 
 <!--
