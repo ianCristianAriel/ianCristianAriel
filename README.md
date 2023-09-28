@@ -38,12 +38,11 @@
     <td align="center" style="width: 50%;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=ianCristianAriel&theme=tokyonight" alt="mystreak" style="width: 100%; padding: 5px;">
     </td>
-    <td align="center" style="width: 50%;">
+    <td align="center" style="width: 70%;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ianCristianAriel&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" style="width: 100%; padding: 5px;">
     </td>
   </tr>
 </table>
-
 
 
 <!--
