@@ -33,10 +33,11 @@
 
 <!-- ![pixel separador](https://bitly.ws/UU24)  -->
 
-<div style="display: flex; width: 100%;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ianCristianAriel&theme=tokyonight" alt="mystreak" style="width: 48%; padding: 14px;">
-  <img <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ianCristianAriel&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" style="width: 49%; padding: 14px;">
+<div style="display: flex; width: 100%; justify-content: space-between;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ianCristianAriel&theme=tokyonight" alt="mystreak" style="flex: 0 0 calc(48% - 7px); padding: 14px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ianCristianAriel&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" style="flex: 0 0 calc(48% - 7px); padding: 14px;">
 </div>
+
 
 
 <!--
