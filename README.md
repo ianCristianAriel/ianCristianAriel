@@ -39,6 +39,7 @@
   <figcaption>Descripción opcional de tu archivo de audio</figcaption>
 </figure>
 
+[![Reproducir audio](https://raw.githubusercontent.com/tuusuario/turepositorio/ruta/a/tu/archivo-de-audio.png)](./DaBaDee.mp3)
 
 ---
 
