@@ -31,16 +31,6 @@
 
 <!-- ![pixel separador](https://bitly.ws/UU24)  -->
 
-<figure>
-  <audio controls>
-    <source src="./DaBaDee.mp3" type="audio/mpeg">
-    Tu navegador no soporta la reproducción de audio.
-  </audio>
-  <figcaption>Descripción opcional de tu archivo de audio</figcaption>
-</figure>
-
-[![Reproducir audio](https://raw.githubusercontent.com/tuusuario/turepositorio/ruta/a/tu/archivo-de-audio.png)](./DaBaDee.mp3)
-
 ---
 
 *Última Actualización: 25/09/2023* 
