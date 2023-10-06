@@ -31,6 +31,12 @@
 
 <!-- ![pixel separador](https://bitly.ws/UU24)  -->
 
+<audio controls>
+    <source src="ruta/a/tu/archivo-de-audio.mp3" type="audio/mpeg">
+    Tu navegador no soporta la reproducción de audio.
+</audio>
+
+
 ---
 
 *Última Actualización: 25/09/2023* 
