@@ -31,10 +31,13 @@
 
 <!-- ![pixel separador](https://bitly.ws/UU24)  -->
 
-<audio controls>
-    <source src="./DaBaDee.mp3" type="audio/mp3">
+<figure>
+  <audio controls>
+    <source src="./DaBaDee.mp3" type="audio/mpeg">
     Tu navegador no soporta la reproducción de audio.
-</audio>
+  </audio>
+  <figcaption>Descripción opcional de tu archivo de audio</figcaption>
+</figure>
 
 
 ---
