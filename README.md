@@ -1,5 +1,5 @@
 
-![portada](./portada.png)
+![portada](./banner_personal.png)
 
 <table>
   <tr>
