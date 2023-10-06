@@ -32,7 +32,7 @@
 <!-- ![pixel separador](https://bitly.ws/UU24)  -->
 
 <audio controls>
-    <source src="ruta/a/tu/archivo-de-audio.mp3" type="audio/mpeg">
+    <source src="./DaBaDee.mp3" type="audio/mp3">
     Tu navegador no soporta la reproducción de audio.
 </audio>
 
