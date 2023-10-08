@@ -31,7 +31,7 @@
 
 <!-- ![pixel separador](https://bitly.ws/UU24)  -->
 
-![the_matrix](./matrix.svg)
+<img src="./matrix.svg" alt="dev" width="250" height="75" />
 
 ---
 
