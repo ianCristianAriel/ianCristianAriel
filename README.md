@@ -40,12 +40,39 @@
 [![Contributors](https://contrib.rocks/image?repo=ianCristianAriel/2022-CABA-EcoBici&exclude=ianCristianAriel)](https://github.com/ianCristianAriel/2022-CABA-EcoBici)
 
 ## Contribuidores
+## Contribuidores
 
-[![Contribuidor 1](https://avatars.githubusercontent.com/u/99350837?v=4)]
-- [Contribuidor 2](https://github.com/contribuidor2)
-- [Contribuidor 3](https://github.com/contribuidor3)
-# Continúa con más contribuidores...
+<a href="https://github.com/GonzaloCortez">
+  <img src="https://avatars.githubusercontent.com/u/99350837?v=4" width="35" height="35">
+</a>
 
+<a href="https://github.com/KevinMarcos26">
+  <img src="https://avatars.githubusercontent.com/u/100862089?v=4" width="35" height="35">
+</a>
+
+<a href="https://github.com/WalterQ20">
+  <img src="https://avatars.githubusercontent.com/u/72511723?v=4" width="35" height="35">
+</a>
+
+<a href="https://github.com/LevyKunn">
+  <img src="https://avatars.githubusercontent.com/u/126292508?v=4" width="35" height="35">
+</a>
+
+<a href="https://github.com/Francisco-B07">
+  <img src="https://avatars.githubusercontent.com/u/81758015?v=4" width="35" height="35">
+</a>
+
+<a href="https://github.com/agustinarr">
+  <img src="https://avatars.githubusercontent.com/u/90060694?v=4" width="35" height="35">
+</a>
+
+<a href="https://github.com/agustinarr">
+  <img src="https://avatars.githubusercontent.com/u/90060694?v=4" width="35" height="35">
+</a>
+
+<a href="https://github.com/tomasescobar25">
+  <img src="https://avatars.githubusercontent.com/u/61805924?v=4" width="35" height="35">
+</a>
 
 ---
 
