@@ -39,6 +39,12 @@
 
 [![Contributors](https://contrib.rocks/image?repo=ianCristianAriel/2022-CABA-EcoBici&exclude=ianCristianAriel)](https://github.com/ianCristianAriel/2022-CABA-EcoBici)
 
+## Contribuidores
+
+- [Contribuidor 1](https://github.com/contribuidor1)
+- [Contribuidor 2](https://github.com/contribuidor2)
+- [Contribuidor 3](https://github.com/contribuidor3)
+# Continúa con más contribuidores...
 
 
 ---
