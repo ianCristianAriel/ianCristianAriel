@@ -31,52 +31,55 @@
 
 <!-- ![pixel separador](https://bitly.ws/UU24)  -->
 
-## Contribuidores 
-
-[![Contributors](https://contrib.rocks/image?repo=ianCristianAriel/2022-Argentina-trata-de-persona&exclude=ianCristianAriel)](https://github.com/ianCristianAriel/2022-Argentina-trata-de-persona)
-
-[![Contributors](https://contrib.rocks/image?repo=ianCristianAriel/2023-sistemapredictivo-Alzheimer&exclude=ianCristianAriel)](https://github.com/ianCristianAriel/2023-sistemapredictivo-Alzheimer)
-
-[![Contributors](https://contrib.rocks/image?repo=ianCristianAriel/2022-CABA-EcoBici&exclude=ianCristianAriel)](https://github.com/ianCristianAriel/2022-CABA-EcoBici)
-
-## Contribuidores
 ## Contribuidores
 
-<a href="https://github.com/GonzaloCortez">
+<style>
+  .contributor {
+    display: inline-block;
+    margin: 5px;
+    border-radius: 50%;
+    overflow: hidden;
+    width: 35px;
+    height: 35px;
+  }
+</style>
+
+<a class="contributor" href="https://github.com/GonzaloCortez">
   <img src="https://avatars.githubusercontent.com/u/99350837?v=4" width="35" height="35">
 </a>
 
-<a href="https://github.com/KevinMarcos26">
+<a class="contributor" href="https://github.com/KevinMarcos26">
   <img src="https://avatars.githubusercontent.com/u/100862089?v=4" width="35" height="35">
 </a>
 
-<a href="https://github.com/WalterQ20">
+<a class="contributor" href="https://github.com/WalterQ20">
   <img src="https://avatars.githubusercontent.com/u/72511723?v=4" width="35" height="35">
 </a>
 
-<a href="https://github.com/LevyKunn">
+<a class="contributor" href="https://github.com/LevyKunn">
   <img src="https://avatars.githubusercontent.com/u/126292508?v=4" width="35" height="35">
 </a>
 
-<a href="https://github.com/Francisco-B07">
+<a class="contributor" href="https://github.com/Francisco-B07">
   <img src="https://avatars.githubusercontent.com/u/81758015?v=4" width="35" height="35">
 </a>
 
-<a href="https://github.com/agustinarr">
+<a class="contributor" href="https://github.com/agustinarr">
   <img src="https://avatars.githubusercontent.com/u/90060694?v=4" width="35" height="35">
 </a>
 
-<a href="https://github.com/agustinarr">
+<a class="contributor" href="https://github.com/agustinarr">
   <img src="https://avatars.githubusercontent.com/u/90060694?v=4" width="35" height="35">
 </a>
 
-<a href="https://github.com/tomasescobar25">
+<a class="contributor" href="https://github.com/tomasescobar25">
   <img src="https://avatars.githubusercontent.com/u/61805924?v=4" width="35" height="35">
 </a>
 
-<a href="https://github.com/ClaudineMeyer">
+<a class="contributor" href="https://github.com/ClaudineMeyer">
   <img src="https://avatars.githubusercontent.com/u/144299056?v=4" width="35" height="35">
 </a>
+
 
 ---
 
