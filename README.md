@@ -31,7 +31,7 @@
 
 <!-- ![pixel separador](https://bitly.ws/UU24)  -->
 
-<img src="./matrix.svg" alt="dev" height="75" />
+<img src="./matrix.svg" alt="dev" width="100%" height="75" />
 
 ---
 
