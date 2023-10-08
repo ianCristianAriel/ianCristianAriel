@@ -33,17 +33,6 @@
 
 ## Contribuidores
 
-<style>
-  .contributor {
-    display: inline-block;
-    margin: 5px;
-    border-radius: 50%;
-    overflow: hidden;
-    width: 35px;
-    height: 35px;
-  }
-</style>
-
 <a class="contributor" href="https://github.com/GonzaloCortez">
   <img src="https://avatars.githubusercontent.com/u/99350837?v=4" width="35" height="35">
 </a>
