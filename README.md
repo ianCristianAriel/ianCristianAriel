@@ -31,7 +31,7 @@
 
 <!-- ![pixel separador](https://bitly.ws/UU24)  -->
 
-[![the_matrix](./matrix.svg)
+![the_matrix](./matrix.svg)
 
 ---
 
