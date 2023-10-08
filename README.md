@@ -57,10 +57,6 @@
   <img src="https://avatars.githubusercontent.com/u/90060694?v=4" width="35" height="35">
 </a>
 
-<a class="contributor" href="https://github.com/agustinarr">
-  <img src="https://avatars.githubusercontent.com/u/90060694?v=4" width="35" height="35">
-</a>
-
 <a class="contributor" href="https://github.com/tomasescobar25">
   <img src="https://avatars.githubusercontent.com/u/61805924?v=4" width="35" height="35">
 </a>
