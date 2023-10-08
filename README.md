@@ -34,15 +34,15 @@
 ## Contribuidores 
 
 <a href = "https://github.com/ianCristianAriel/2022-Argentina-trata-de-persona/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=madushadhanushka/simple-sqlite"/>
+  <img src = "https://contrib.rocks/image?repo=ianCristianAriel/2022-Argentina-trata-de-persona"/>
 </a>
 
 <a href = "https://github.com/ianCristianAriel/2023-sistemapredictivo-Alzheimer/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=madushadhanushka/simple-sqlite"/>
+  <img src = "https://contrib.rocks/image?repo=ianCristianAriel/2023-sistemapredictivo-Alzheimer"/>
 </a>
 
 <a href = "https://github.com/ianCristianAriel/2022-CABA-EcoBici/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=madushadhanushka/simple-sqlite"/>
+  <img src = "https://contrib.rocks/image?repo=ianCristianAriel/2022-CABA-EcoBici"/>
 </a>
 
 
