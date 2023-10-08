@@ -31,7 +31,10 @@
 
 <!-- ![pixel separador](https://bitly.ws/UU24)  -->
 
-<img src="./matrix.svg" alt="dev" width="100%" height="75" />
+<div style="background-image: url(./matrix.svg); background-size: cover; background-repeat: repeat;">
+  <img src="./matrix.svg" alt="dev" width="100%" height="75" />
+</div>
+
 
 ---
 
