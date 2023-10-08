@@ -33,17 +33,12 @@
 
 ## Contribuidores 
 
-<a href = "https://github.com/ianCristianAriel/2022-Argentina-trata-de-persona/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=ianCristianAriel/2022-Argentina-trata-de-persona"/>
-</a>
+[![Contributors](https://contrib.rocks/image?repo=ianCristianAriel/2022-Argentina-trata-de-persona&exclude=ianCristianAriel)](https://github.com/ianCristianAriel/2022-Argentina-trata-de-persona)
 
-<a href = "https://github.com/ianCristianAriel/2023-sistemapredictivo-Alzheimer/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=ianCristianAriel/2023-sistemapredictivo-Alzheimer"/>
-</a>
+[![Contributors](https://contrib.rocks/image?repo=ianCristianAriel/2023-sistemapredictivo-Alzheimer&exclude=ianCristianAriel)](https://github.com/ianCristianAriel/2023-sistemapredictivo-Alzheimer)
 
-<a href = "https://github.com/ianCristianAriel/2022-CABA-EcoBici/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=ianCristianAriel/2022-CABA-EcoBici"/>
-</a>
+[![Contributors](https://contrib.rocks/image?repo=ianCristianAriel/2022-CABA-EcoBici&exclude=ianCristianAriel)](https://github.com/ianCristianAriel/2022-CABA-EcoBici)
+
 
 
 ---
