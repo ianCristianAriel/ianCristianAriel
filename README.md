@@ -41,7 +41,7 @@
 
 ## Contribuidores
 
-- [Contribuidor 1](https://avatars.githubusercontent.com/u/99350837?v=4)
+[![Contribuidor 1](https://avatars.githubusercontent.com/u/99350837?v=4)]
 - [Contribuidor 2](https://github.com/contribuidor2)
 - [Contribuidor 3](https://github.com/contribuidor3)
 # Continúa con más contribuidores...
