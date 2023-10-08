@@ -31,9 +31,19 @@
 
 <!-- ![pixel separador](https://bitly.ws/UU24)  -->
 
-<div style="background-image: url(./matrix.svg); background-size: cover; background-repeat: repeat;">
-  <img src="./matrix.svg" alt="dev" width="100%" height="100" />
-</div>
+## Contribuidores 
+
+<a href = "https://github.com/madushadhanushka/simple-sqlite/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=madushadhanushka/simple-sqlite"/>
+</a>
+
+<a href = "https://github.com/madushadhanushka/simple-sqlite/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=madushadhanushka/simple-sqlite"/>
+</a>
+
+<a href = "https://github.com/madushadhanushka/simple-sqlite/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=madushadhanushka/simple-sqlite"/>
+</a>
 
 
 ---
