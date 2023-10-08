@@ -74,6 +74,10 @@
   <img src="https://avatars.githubusercontent.com/u/61805924?v=4" width="35" height="35">
 </a>
 
+<a href="https://github.com/ClaudineMeyer">
+  <img src="https://avatars.githubusercontent.com/u/144299056?v=4" width="35" height="35">
+</a>
+
 ---
 
 *Última Actualización: 25/09/2023* 
