@@ -34,7 +34,7 @@
 ## Contribuidores
 
 <a class="contributor" href="https://github.com/GonzaloCortez">
-  <img src="https://avatars.githubusercontent.com/u/99350837?v=4" width="50" height="50">
+  <img src="https://avatars.githubusercontent.com/u/34581956?v=4" width="50" height="50">
 </a>
 
 <a class="contributor" href="https://github.com/KevinMarcos26">
