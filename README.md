@@ -7,7 +7,7 @@
       Dedico mis días a la exploración y <strong>aprendizaje constante</strong> de las <strong>últimas tendencias y tecnologías</strong> en el campo de la <strong>Ciencia y analisis de datos</strong>. Mi enfoque incluye la comprensión de conceptos técnicos fundamentales en el área como <strong>ingeniería de software, matemáticas, buenas prácticas</strong> y habilidades blandas complementarias como <strong>gestión de proyectos y comunicación efectiva</strong>.
     </td>
     <td align="center">
-      <img src="./matrix.svg" alt="dev" width="250" height="150" />
+      <img src="./dev.gif" alt="dev" width="250" height="150" />
     </td>
   </tr>
 </table>
