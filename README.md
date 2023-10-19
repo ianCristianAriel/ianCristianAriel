@@ -70,4 +70,4 @@
 
 *Última Actualización: 25/09/2023* 
 
-<!-- Se utilizo ChatGPT de OpenAI para la creacion del markdown anterior -->
+<!-- Se utilizo ChatGPT de OpenAI para la creacion del markdown -->
