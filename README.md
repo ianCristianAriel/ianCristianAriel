@@ -33,7 +33,7 @@
 
 <!-- ![pixel separador](https://bitly.ws/UU24)  -->
 
-## Contribuidores
+## Top 5 colaboradores 2023:
 
 <a class="contributor" href="https://github.com/GonzaloCortez">
   <img src="https://avatars.githubusercontent.com/u/34581956?v=4" width="50" height="50">
