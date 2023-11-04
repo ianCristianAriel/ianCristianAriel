@@ -39,18 +39,6 @@
   <img src="https://avatars.githubusercontent.com/u/34581956?v=4" width="50" height="50">
 </a>
 
-<a class="contributor" href="https://github.com/KevinMarcos26">
-  <img src="https://avatars.githubusercontent.com/u/100862089?v=4" width="50" height="50">
-</a>
-
-<a class="contributor" href="https://github.com/WalterQ20">
-  <img src="https://avatars.githubusercontent.com/u/72511723?v=4" width="50" height="50">
-</a>
-
-<a class="contributor" href="https://github.com/LevyKunn">
-  <img src="https://avatars.githubusercontent.com/u/126292508?v=4" width="50" height="50">
-</a>
-
 <a class="contributor" href="https://github.com/Francisco-B07">
   <img src="https://avatars.githubusercontent.com/u/81758015?v=4" width="50" height="50">
 </a>
@@ -61,10 +49,6 @@
 
 <a class="contributor" href="https://github.com/tomasescobar25">
   <img src="https://avatars.githubusercontent.com/u/61805924?v=4" width="50" height="50">
-</a>
-
-<a class="contributor" href="https://github.com/ClaudineMeyer">
-  <img src="https://avatars.githubusercontent.com/u/144299056?v=4" width="50" height="50">
 </a>
 
 
