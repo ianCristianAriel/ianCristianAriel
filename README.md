@@ -37,8 +37,8 @@
 
 ## Top 5 colaboradores 2023
 
-<a class="contributor" href="https://github.com/GonzaloCortez">
-  <img src="https://avatars.githubusercontent.com/u/34581956?v=4" width="50" height="50">
+<a class="contributor" href="https://github.com/GonCor">
+  <img src="https://avatars.githubusercontent.com/u/99350837?v=4" width="50" height="50">
 </a>
 
 <a class="contributor" href="https://github.com/Francisco-B07">
