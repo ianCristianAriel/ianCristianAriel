@@ -35,27 +35,8 @@
 
 <!-- ![pixel separador](https://bitly.ws/UU24)  -->
 
-## Top 5 colaboradores 2023
-
-<a class="contributor" href="https://github.com/GonCor">
-  <img src="https://avatars.githubusercontent.com/u/99350837?v=4" width="50" height="50">
-</a>
-
-<a class="contributor" href="https://github.com/Francisco-B07">
-  <img src="https://avatars.githubusercontent.com/u/81758015?v=4" width="50" height="50">
-</a>
-
-<a class="contributor" href="https://github.com/agustinarr">
-  <img src="https://avatars.githubusercontent.com/u/90060694?v=4" width="50" height="50">
-</a>
-
-<a class="contributor" href="https://github.com/tomasescobar25">
-  <img src="https://avatars.githubusercontent.com/u/61805924?v=4" width="50" height="50">
-</a>
-
-
 ---
 
-*Última Actualización: 25/09/2023* 
+*Última Actualización: 6/12/2023* 
 
 <!-- Se utilizo ChatGPT de OpenAI para la creacion del markdown -->
