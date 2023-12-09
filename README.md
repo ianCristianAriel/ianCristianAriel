@@ -1,7 +1,10 @@
+# ¡Bienvenid@ a mi Repositorio en GitHub! 👋
+Aquí encontrarás una breve descripción sobre mí y un vistazo a las tecnologías que domino y estoy aprendiendo.
+
 <table>
   <tr>
     <td>
-      Dedico mis días a la exploración y <strong>aprendizaje constante</strong> de las <strong>últimas tendencias y tecnologías</strong> en el campo de la <strong>Ciencia y analisis de datos</strong>. Mi enfoque incluye la comprensión de conceptos técnicos fundamentales en el área como <strong>ingeniería de software, matemáticas, buenas prácticas</strong> y habilidades blandas complementarias como <strong>gestión de proyectos y comunicación efectiva</strong>.
+      Dedico mis días a la exploración y aprendizaje constante de las últimas tendencias y tecnologías en el campo de la Ciencia y análisis de datos. Mi enfoque incluye la comprensión de conceptos técnicos fundamentales en el área, como ingeniería de software, matemáticas, buenas prácticas y habilidades blandas complementarias como gestión de proyectos y comunicación efectiva.
     </td>
     <td align="center">
       <img src="./dev.gif" alt="dev" width="250" height="150" />
