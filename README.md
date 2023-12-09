@@ -1,4 +1,4 @@
-# <div align="center">--   - ¡Bienvenid@ a mi Repositorio en GitHub!👋 -  ----</div>
+![portada](./banner_personal.png)
 
 <table>
   <tr>
@@ -33,8 +33,6 @@
 
 
 <!-- ![pixel separador](https://bitly.ws/UU24)  -->
-
-<!-- ![portada](./banner_personal.png) -->
 
 ---
 
