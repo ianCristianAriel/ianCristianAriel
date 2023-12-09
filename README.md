@@ -32,7 +32,7 @@
 
 <!-- ![pixel separador](https://bitly.ws/UU24)  -->
 
-![portada](./banner_personal.png)
+<!-- ![portada](./banner_personal.png) -->
 
 ---
 
