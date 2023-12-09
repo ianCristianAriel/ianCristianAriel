@@ -1,4 +1,4 @@
-<-div aling="center">
+<div aling="center">
   ¡Bienvenid@ a mi Repositorio en GitHub! 👋
 </div>
 
