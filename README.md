@@ -1,4 +1,4 @@
-# <div align="center">¡Bienvenid@ a mi Repositorio en GitHub! 👋</div>
+# <div align="center">----  ---  --   - ¡Bienvenid@ a mi Repositorio en GitHub! -   --  ---  ----👋</div>
 
 <table>
   <tr>
