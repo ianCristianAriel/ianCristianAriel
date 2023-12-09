@@ -1,6 +1,3 @@
-
-![portada](./banner_personal.png)
-
 <table>
   <tr>
     <td>
@@ -34,6 +31,8 @@
 
 
 <!-- ![pixel separador](https://bitly.ws/UU24)  -->
+
+![portada](./banner_personal.png)
 
 ---
 
