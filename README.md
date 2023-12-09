@@ -1,5 +1,6 @@
-# ¡Bienvenid@ a mi Repositorio en GitHub! 👋
-Aquí encontrarás una breve descripción sobre mí y un vistazo a las tecnologías que domino y estoy aprendiendo.
+<-div aling="center">
+  ¡Bienvenid@ a mi Repositorio en GitHub! 👋
+</div>
 
 <table>
   <tr>
