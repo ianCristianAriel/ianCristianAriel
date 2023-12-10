@@ -1,4 +1,4 @@
-![portada](./banner_personal.png)
+<!-- ![portada](./banner_personal.png) -->
 
 <table>
   <tr>
