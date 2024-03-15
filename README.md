@@ -39,6 +39,6 @@
 
 ---
 
-*Última Actualización: 6/12/2023* 
+*Última Actualización: 15/03/2024* 
 
 <!-- Se utilizo ChatGPT de OpenAI para la creacion del markdown -->
