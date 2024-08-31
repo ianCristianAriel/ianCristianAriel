@@ -39,6 +39,6 @@
 
 ---
 
-*Última Actualización: 15/03/2024* 
+*A mi madre, a mi padre y proporcionalmente al resto* 
 
 <!-- Se utilizo ChatGPT de OpenAI para la creacion del markdown -->
