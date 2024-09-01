@@ -39,6 +39,6 @@
 
 ---
 
-*A mi madre, a mi padre y proporcionalmente al resto* 
+*A mi madre* 
 
 <!-- Se utilizo ChatGPT de OpenAI para la creacion del markdown -->
