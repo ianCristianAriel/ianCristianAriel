@@ -25,11 +25,6 @@
 
 <!-- ![pixel separador](https://bitly.ws/UU24)  -->
 
-<!-- 
-bueno, ahora que estamos solos.. 
-Si llegaste hasta aqui es porque eres un/a fanatic@ o viste luz y entraste xd.. asi que, mi curios@ espectador/a si estas buscando talento para tu equipo, siente libre de mirar mis repos y si te interesa mi trabajo me escribes, sin pena que no muerdo, bueno.. depende, pero a ti puede que no te muerda si me contratas, lo prometo.. 🫶🐍
--->
-
 ---
 
 _Ultima actualizacion: 29/11/24_
